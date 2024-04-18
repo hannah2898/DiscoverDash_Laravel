@@ -7,5 +7,10 @@ This version of discoverdash is made using Laravel.
 - The website makes use of a destination table which contains the city, country, best time to visit, climate and a description columns.
 - For the future scope I would like to add an attractions table that would give more details about the attractions in a particular locationx
 
-##Issues
+## Issues
 I am facing issues with my update functionality. Although it is not throwing me any error it is not updating my table
+
+## Images
+![Mountain View](images/Home.png)
+![Mountain View](images/Add_Destination.png)
+![Mountain View](images/Edit.png)
