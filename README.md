@@ -11,6 +11,6 @@ This version of discoverdash is made using Laravel.
 I am facing issues with my update functionality. Although it is not throwing me any error it is not updating my table
 
 ## Images
-![Home](../Images/Home.png)
-![Add Destination](../Images/Add_Destination.png)
-![Edit View](../Images/Edit.png)
+![Home](Images/Home.png)
+![Add Destination](Images/Add_Destination.png)
+![Edit View](Images/Edit.png)
